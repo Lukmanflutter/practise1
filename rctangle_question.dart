@@ -18,7 +18,7 @@ class SimulateRectangle {
       print(d);
     } else {
       print(e);
-    }print(e);
+    }
 
   }
 }
